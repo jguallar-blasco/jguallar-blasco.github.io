@@ -9,7 +9,7 @@ float: left;
 </style>
 </head>
 
-<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" id="hp" />
+<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" style="float:left;width:42px;height:42px; />
 
 Publications: 
 
