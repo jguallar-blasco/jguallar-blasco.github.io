@@ -1,5 +1,5 @@
 <img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" style="float:left;width:100px;height:100px;" />
-About me: 
+Research interests: 
 
 Publications: 
 
