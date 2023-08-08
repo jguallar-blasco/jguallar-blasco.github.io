@@ -2,9 +2,6 @@
 <html>
 <head>
 <style>
-img {
-  float: right;
-}
 </style>
 </head>
 <body>
