@@ -1,11 +1,10 @@
-<!DOCTYPE html>
 <html>
 <head>
 </head>
 <body>
 
 I am a student at the Johns Hopkins Whiting School of Engineering. My major is computer science with a concentration in natural language processing. I work at the Center for Language and Speech Processing where my advisor is Benjamin Van Durme. Additionally, I am a natural language processing research assistant at the Johns Hopkins Department of Political Science under Nicolas Jabko. My primary research interests are semantic parsing and question answering, especially in multi-modal and political settings.
-
+<p> </p>
 <p>Publications: </p>
 
 <p>[1] E. Stengel-Eskin, J. Guallar-Blasco, Y. Zhou, and B. Van Durme, “Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA”, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023. </p>
