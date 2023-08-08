@@ -8,7 +8,7 @@ img {
 </style>
 </head>
 <body>
-
+ 
 <h2>Float Right</h2>
 
 <p>In this example, the image will float to the right in the paragraph, and the text in the paragraph will wrap around the image.</p>
