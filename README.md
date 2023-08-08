@@ -2,14 +2,10 @@
 <html>
 <head>
 <style>
-"hp"  {
-float: left;    
- margin: 0 15px 0 0;
-}
 </style>
 </head>
 
-<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" style="float:left;width:42px;height:42px; />
+<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" style="float:left;width:42px;height:42px;" />
 
 Publications: 
 
