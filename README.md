@@ -4,8 +4,6 @@ Publications:
 
 [2] E. Stengel-Eskin, J. Guallar-Blasco, and B. Van Durme, “Human-Model Divergence in the Handling of Vagueness”, in Proceedings of the 1st Workshop on Understanding Implicit and Underspecified Language, Online: Association for Computational Linguistics, 2021. 
 
-[3] E. Stengel-Eskin, J. Guallar-Blasco, and B. Van Durme, “Exploring Human-Model Divergence Through Vagueness”, Proceedings of the Society for Computation in Linguistics, 2021, *Abstract. 
+[3] E. Stengel-Eskin, J. Guallar-Blasco, and B. Van Durme, “Exploring Human-Model Divergence Through Vagueness”, Proceedings of the Society for Computation in Linguistics, 2021, *Abstract.  
 
-Publication (Other): 
-
-[1] J. Guallar-Blasco, E. Stengel-Eskin, B. Van Durme, “Analyzing Question Ambiguity in Why-Questions” (2023), Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2023) ∗Abstract 
+[4] J. Guallar-Blasco, E. Stengel-Eskin, B. Van Durme, “Analyzing Question Ambiguity in Why-Questions” (2023), Mid-Atlantic Student Colloquium on Speech, Language and Learning (MASC-SLL 2023) ∗Abstract 
