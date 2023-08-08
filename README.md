@@ -1,3 +1,5 @@
+<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" style="float: left; margin-right: 10px;" />
+
 Publications: 
 
 [1] E. Stengel-Eskin, J. Guallar-Blasco, Y. Zhou, and B. Van Durme, “Why Did the Chicken Cross the Road? Rephrasing and Analyzing Ambiguous Questions in VQA”, Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics, 2023. 
