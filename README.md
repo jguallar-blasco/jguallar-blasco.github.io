@@ -4,8 +4,7 @@
 </head>
 <body>
 
-<p><img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Pineapple" style="width:170px;height:170px;margin-left:15px;">
- 
+<p><img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Pineapple" style="width:170px;height:170px;margin-left:15px;"> I am a student at the Johns Hopkins Whiting School of Engineering. My major is computer science with a concentration in natural language processing. I work at the Center for Language and Speech Processing where my advisor is Benjamin Van Durme. Additionally, I am a natural language processing research assistant at the Johns Hopkins Department of Political Science under Nicolas Jabko. My primary research interests are semantic parsing and question answering, especially in multi-modal and political settings.
 
 <p>Publications: </p>
 
