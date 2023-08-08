@@ -1,8 +1,8 @@
+<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" id="hp" />
 #hp  {
 float: left;    
  margin: 0 15px 0 0;
 }
-<img src="https://github.com/jguallar-blasco/jguallar-blasco.github.io/blob/main/image.png" alt="Markdown Monster icon" id="hp" />
 
 Publications: 
 
