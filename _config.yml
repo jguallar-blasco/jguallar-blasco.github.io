@@ -1,6 +1,7 @@
 url: "https://jguallar-blasco.github.io/jguallar-blasco"
 theme: jekyll-theme-minimal
 title: Jimena Guallar-Blasco
+favicon: /assets/images/profile.png 
 me-img: /assets/images/profile.png 
 author_blurb: "hiii"
 author_blurb_image: /assets/images/profile.png 
