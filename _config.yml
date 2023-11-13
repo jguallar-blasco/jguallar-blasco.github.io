@@ -1,6 +1,30 @@
+url: "https://jguallar-blasco.github.io/jguallar-blasco"
 theme: jekyll-theme-minimal
-title: Jimena Guallar-Blasco
-profile_picture: image.png 
+lang: "en"
+author: "Jimena Guallar-Blasco"
+title: "Jimena Guallar-Blasco"
 description: Undergraduate student at the Johns Hopkins Whiting School of Engineering doing Natural Language Processing Research at the Center for Language and Speech Processing (advised by Benjamin Van Durme).
+favicon: /assets/images/profile.png 
+
+################
+# Header layout #
+################
+
+black-favicon: "/img/black-lab-glass.ico"
+logo: "/assets/images/profile.png" # leave blank if you don't want a logo
+
+background-img: "../img/intro-bg.jpg"
+
+###########
+# Contact #
+###########
+
+email: "jgualla1@jh.edu"
+
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Timeline: 'timeline'
+  Contact: 'contact'
 
 
