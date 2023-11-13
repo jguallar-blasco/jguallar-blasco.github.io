@@ -13,4 +13,10 @@ logo: "/assets/images/profile.png" # leave blank if you don't want a logo
 
 background-img: "../img/intro-bg.jpg"
 
+###########
+# Contact #
+###########
+
+email: "jgualla1@jh.edu"
+
 
