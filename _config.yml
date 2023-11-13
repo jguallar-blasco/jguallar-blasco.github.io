@@ -21,4 +21,10 @@ background-img: "../img/intro-bg.jpg"
 
 email: "jgualla1@jh.edu"
 
+pages_list:
+  About: 'about'
+  Blog: 'latest-post'
+  Timeline: 'timeline'
+  Contact: 'contact'
+
 
