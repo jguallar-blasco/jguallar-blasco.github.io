@@ -9,7 +9,7 @@ favicon: /assets/images/profile.png
 ################
 
 black-favicon: "/img/black-lab-glass.ico"
-logo: "/img/author.png" # leave blank if you don't want a logo
+logo: "/assests/images/profile.png" # leave blank if you don't want a logo
 
 background-img: "../img/intro-bg.jpg"
 
