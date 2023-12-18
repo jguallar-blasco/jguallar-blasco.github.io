@@ -3238,11 +3238,12 @@ input, select, textarea {
 			left: 0;
 			width: 100%;
 			height: 10%;
-			background-color: #212931;
+			background-color: #5486b8;
 			background-image: url("https://jguallar-blasco.github.io/assets/overlay.png"), linear-gradient(0deg, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0.1)), url("https://jguallar-blasco.github.io/assets/overlay.png");
 			background-size: auto,								auto,														10% auto;
 			background-position: center,								center,														top center;
-			background-repeat: repeat,								no-repeat,													no-repeat;												
+			background-repeat: repeat,								no-repeat,													no-repeat;
+			background-attachment: scroll,								scroll,														scroll;
 			z-index: -1;
 		}
 
@@ -3252,6 +3253,26 @@ input, select, textarea {
 				height: 100vh;
 			}
 
+		#wrapper.fade-in:before {
+			pointer-events: none;
+			-moz-transition: opacity 1s ease-in-out;
+			-webkit-transition: opacity 1s ease-in-out;
+			-ms-transition: opacity 1s ease-in-out;
+			transition: opacity 1s ease-in-out;
+			-moz-transition-delay: 0.75s;
+			-webkit-transition-delay: 0.75s;
+			-ms-transition-delay: 0.75s;
+			transition-delay: 0.75s;
+			background: #1e252d;
+			content: '';
+			display: block;
+			height: 10%;
+			left: 0;
+			opacity: 0;
+			position: fixed;
+			top: 0;
+			width: 100%;
+		}
 
 		body.is-preload #wrapper.fade-in:before {
 			opacity: 1;
