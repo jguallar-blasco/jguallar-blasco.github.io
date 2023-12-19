@@ -1,6 +1,6 @@
 ---
 layout: content
-title: nonsense
+title: Explorations
 logo: false
 ---
 

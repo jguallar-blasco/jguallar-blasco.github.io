@@ -1,14 +1,13 @@
-title: Stefan Arseneau
-description: Miller Department of Physics and Astronomy, Johns Hopkins University
+title: Jimena Guallar-Blasco
+description: NLP @ Johns Hopkins University
 logo: assets/headshot.jpg
-url: "https://stefanarseneau.github.io"
+url: "https://jguallar-blasco.github.io"
 
 plugins:
   - jekyll-seo-tag
 
-author: stefanarseneau
+author: jguallar-blasco
 social:
-  name: Stefan Arseneau
+  name: Jimena Guallar-Blasco
   links:
-    - https://twitter.com/arseneausm
-    - https://github.com/stefanarseneau
+    - https://github.com/jguallar-blasco
