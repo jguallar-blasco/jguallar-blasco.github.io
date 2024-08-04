@@ -4,7 +4,7 @@ title: Explorations
 logo: false
 ---
 
-<h1><a href="https://jguallar-blasco.github.io/explorations/how_has_catalan_survived"> How Has Catalan Survived? </h1>
+<h1><a href="https://jguallar-blasco.github.io/explorations/catalan_survival"> How Has Catalan Survived? </h1>
 
 <h3>The development and survival of catalan through the ages</h3>
 <p>Read here!</p>
