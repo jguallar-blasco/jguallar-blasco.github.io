@@ -13,4 +13,4 @@ logo: false
 <h1>What is Arogonese</h1>
 
 <h3>A look at the language of the Aragon region of Spain</h3>
-<p>Read here!</p>
+<p><a href="https://jguallar-blasco.github.io/explorations/aragonese">Read here!</p>
