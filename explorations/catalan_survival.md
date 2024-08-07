@@ -6,7 +6,7 @@ logo: false
 
 <h1> How Has Catalan Survived? </h1>
 
-<p> It is estimated that around 40% of the word's 7100+ languages are at risk of disapearing. The decline, and even death of a language, is a common phenomena that can occur for various reasons such as war, globalization, or immigration. The majority of languages dissapear gradually over the span of generations. This is a case study of why Catalan, an inconspicous Romance language spoken in a North-Western region of Spain, has managed to survive and thrive despite the odds. So let's get started!  
+<p> It is estimated that around 40% of the word's 7100+ languages are at risk of disappearing. The decline, and even death of a language, is a common phenomena that can occur for various reasons such as war, globalization, or immigration. The majority of languages dissapear gradually over the span of generations. This is a case study of why Catalan, an inconspicous Romance language spoken in a North-Western region of Spain, has managed to survive and thrive despite the odds. So let's get started!  
 
 <p> There is a common misconception that Catalan is a dialect of Spanish. Catalan is not a dialect of any language but an independent Romance language that has been competing with Spanish for dominance over the Iberian Peninsula for over 1000 years. It is estimated that today Catalan is spoken by about 9 million people in Spain, mainly in the region of Catalonia, and an additional 300,000 people outside of Spain (primarily throughout the Mediterranean). Furthermore, about 3,000,000 people in Spain speak Catalan as their second or third language, and 2 million more understand Catalan but are not able to speak it. </p>
 
