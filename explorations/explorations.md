@@ -8,7 +8,7 @@ logo: false
 
 <h2>OCR for Historical Text (TBD)</h2>
 
-<h2> How Has Catalan Survived? </h1>
+<h2> How Has Catalan Survived? </h2>
 <h3>The development and survival of catalan through the ages</h3>
 <p><a href="https://jguallar-blasco.github.io/explorations/catalan_survival">Read here!</a></p>
 
