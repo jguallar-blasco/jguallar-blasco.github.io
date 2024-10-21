@@ -5,7 +5,7 @@ title: Jimena Guallar-Blasco
 
 <h1 id="about">About Me</h1>
 
-Jimena is a Research Associate at the Johns Hopkins University Human Language Technology Center of Excellence. She recently graduated from the Johns Hopkins Whiting School of Engineering with a Bachelors of Science and a Master of Science in Engeering in Computer Science (with a concentration in Natural Language Processing). Before her current positions, we was a research assistant at the JHU Center for Language and Speech Processing, where she was advised by Benjamin Van Durme. Her primary research interests are natural language processing and computational semantics, in semantically complex multimodal settings.
+Jimena is a Research Associate at the Human Language Technology Center of Excellence. an independent research center associated with Johns Hopkins University (JHU). She recently graduated from the JHU Whiting School of Engineering with a Bachelors of Science and a Masters of Science in Engeering. While Jimena majored in computer Science, with a concentration in Natural Language Processing, she also minored in Linguistics. Before starting her current position as a Research Associate, Jimena was a research assistant at the JHU Center for Language and Speech Processing, where she was advised by Professor Benjamin Van Durme. Her primary research interests are using natural language processing and computational semantics techniques to solve semantically complex problems in multimodal settings.
 
 <h1 id="publications">Publications</h1>
 
