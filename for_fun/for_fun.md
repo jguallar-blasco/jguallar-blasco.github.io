@@ -10,7 +10,7 @@ image2: /images/overlay.png
 
 ![hi]({{ page.image1 | relative_url }}){: width="500"}
 
-*caption*
+*caption 1*
 
 ![hi]({{ page.image2 | relative_url }}){: width="500"}
 
