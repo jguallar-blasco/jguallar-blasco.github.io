@@ -5,7 +5,7 @@ title: Jimena Guallar-Blasco
 
 <h1 id="about">About Me</h1>
 
-Jimena is a Research Associate at the Human Language Technology Center of Excellence, an independent research center associated with Johns Hopkins University (JHU). She recently graduated from the JHU Whiting School of Engineering with a Bachelors of Science and a Masters of Science in Engeering. While at JHU, Jimena majored in computer Science, with an emphasis in Natural Language Processing, and minored in Linguistics. Before starting her current position as a Research Associate, Jimena was a Research Assistant at the JHU Center for Language and Speech Processing, where she was advised by Professor Benjamin Van Durme. Her primary research interest is using natural language processing and computational semantics techniques to solve complex problems in multimodal settings.
+Jimena is a Research Scientist in the Human-Centered AI division of Charles River Analytics, a Boston-based AI company focused on human-driven intelligent systems. Previously, Jimena was a Research Associate at the Human Language Technology Center of Excellence, an independent research center associated with Johns Hopkins University (JHU). Jimena graduated from the JHU Whiting School of Engineering with a Bachelors of Science and a Masters of Science in Engeering in May of 2024. While at JHU, Jimena studied Computer Science and Linguistics and conducted research as a Research Assistant at the JHU Center for Language and Speech Processing. Her primary research interest is using natural language processing and computational semantics techniques to solve complex problems in multimodal settings.
 
 <h1 id="publications">Publications</h1>
 
