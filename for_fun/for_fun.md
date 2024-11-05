@@ -8,11 +8,11 @@ image2: /images/overlay.png
 
 <h1>Plants and books mostly.</h1>
 
-![hi]({{ page.image1 | relative_url }}){: width="500"}
+![hi]({{ page.image1 | relative_url }}){: style="max-width: 30%; align:center"}
 
 *caption 1*
 
-![hi]({{ page.image2 | relative_url }}){: width="500"}
+![hi]({{ page.image2 | relative_url }}){: style="max-width: 30%; align:center"}
 
 *caption 2*
 
