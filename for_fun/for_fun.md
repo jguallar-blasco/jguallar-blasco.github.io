@@ -2,7 +2,7 @@
 layout: content
 title: For-Fun
 logo: false
-image1: /images/monstera.jpg
+image1: /images/monstera.jpeg
 image2: /images/overlay.png
 ---
 
