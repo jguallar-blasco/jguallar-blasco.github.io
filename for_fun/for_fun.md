@@ -3,12 +3,12 @@ layout: content
 title: For-Fun
 logo: false
 image1: /images/monstera.jpeg
-image2: /images/desert_rose.png
-image3: /images/drago.png
-image4: /images/jackfruit_tree.png
+image2: /images/desert_rose.jpg
+image3: /images/drago.jpg
+image4: /images/jackfruit_tree.jpg
 ---
 
-<h1>Plants and books mostly.</h1>
+<h1>Mostly plants, books and birds...</h1>
 
 <!--![hi]({{ page.image4 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
 
