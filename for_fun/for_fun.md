@@ -14,7 +14,7 @@ image4: /images/jackfruit_tree.jpg
 
 *This is my my Adenium obesum, also known as the desert rose. Until recently, this plant had been on my plants-to-get list for over 3 years. Native to the Shel region of the Sahara, this *-->
 
-![Dracoplant]({{ page.image3 | relative_url }}){: style="max-width:30%; display: inline-block; margin-left: auto; margin-right: auto;"}![Dracoplant]({{ page.image3 | relative_url }}){: style="max-width:30%; display: inline-block; margin-left: auto; margin-right: auto;"}
+![Dracoplant]({{ page.image3 | relative_url }}){: style="max-width:30%; display: inline-block; margin-left: auto; margin-right: auto; text-align: center;"}![Dracoplant]({{ page.image3 | relative_url }}){: style="max-width:30%; display: inline-block; margin-left: auto; margin-right: auto; text-align: center;"}
 
 *On my most recent trip home to Spain I had to opportunity to visit Barcelona. While there I stumbled upon a seed stand in Las Ramblas where I found the seeds for the Dracaena draco. This is an evergreen subtropical tree native to the Canary Islands, Cape Verde and Morroco. This picture shows about 4 months of growth.* 
 
