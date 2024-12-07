@@ -31,7 +31,7 @@ image8: /images/old_lyme_fake_swans.jpg
 
 *Often planted as decoration and security due to its pretty white flowers but sharp thorns, the Asian trifoliate orange (Citrus trifoliata) is bush invasie to the East Coast. Please avoid planting, remove when possible, and attempt to discard any fallen orange from this tree to avoid further propagation.*
 
-![TrifoliateOrange]({{ page.image6 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+![TrifoliateOrange]({{ page.image5 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
 
 *---*
 
