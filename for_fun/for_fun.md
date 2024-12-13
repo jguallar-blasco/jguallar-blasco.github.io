@@ -17,7 +17,7 @@ image9: /images/turkeys_boston.jpg
 
 *Did you know a velociraptors was actually the size of a wild turkey...*
 
-![TurkeysBoston]({{ page.image8 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+![TurkeysBoston]({{ page.image9 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
 
 *---*
 
