@@ -10,14 +10,21 @@ image5: /images/Poncirus_trifoliata_1_JdP.jpg
 image6: /images/poland_seagull.jpg
 image7: /images/poland_mandarin_duck.jpg
 image8: /images/old_lyme_fake_swans.jpg
+image9: /images/turkeys_boston.jpg
 ---
 
 <h1>Mostly plants, books and birds...</h1>
 
+*Did you know a velociraptors was actually the size of a wild turkey...*
+
+![TurkeysBoston]({{ page.image8 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+
+*---*
+
 
 *Jumped out of the car in excitement when I saw these swans in a lake in Old Lyme CT only realize they were fake... not my most shining moment as a bird watcher.*
 
-![OldLymeFakeSwars]({{ page.image8 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+![OldLymeFakeSwans]({{ page.image8 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
 
 *---*
 
