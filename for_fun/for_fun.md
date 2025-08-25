@@ -15,6 +15,16 @@ image9: /images/turkeys_boston.jpg
 
 <h1>Mostly plants, books and birds...</h1>
 
+<p><em>Some plants with berries near me.</em></p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="{{ page.image9 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
+  <img src="{{ page.image8 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:30%; height:auto;">
+  <img src="{{ page.image7 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
+</div>
+
+*---*
+
 *Did you know a velociraptor is actually the size of a wild turkey...*
 
 ![TurkeysBoston]({{ page.image9 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
