@@ -21,17 +21,16 @@ image15: /images/common_elderberry.jpg
 
 <h1>Mostly plants, books and birds...</h1>
 
-<p><em>Some more plants with berries near me.</em></p>
+<p><em>Some more plants and their berries near me in Cambridge MA. From left to right: Glossy Buckthorn (poisonous!), Gray Dogwood (not toxic but not edible) and Common Elderberry (berries edible after cooking, flowers can be eatern raw).</em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="{{ page.image10 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
-  <img src="{{ page.image11 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:30%; height:auto;">
-  <img src="{{ page.image12 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
+  <img src="{{ page.image13 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
+  <img src="{{ page.image14 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:30%; height:auto;">
+  <img src="{{ page.image15 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
 </div>
 
-*---*
 
-<p><em>Some plants with berries near me.</em></p>
+<p><em>Went on a walk during my lunch break at work and saw tons of plants with berries. Are any of these berries edible? Here is an info dump from left to right: Silky Dogwood (berries are edible raw or cooked), Southern Pokeweed (berries are toxic!), and Snowball (edible when cooked). </em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="{{ page.image10 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
