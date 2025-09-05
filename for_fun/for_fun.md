@@ -11,6 +11,9 @@ image6: /images/poland_seagull.jpg
 image7: /images/poland_mandarin_duck.jpg
 image8: /images/old_lyme_fake_swans.jpg
 image9: /images/turkeys_boston.jpg
+image10: /images/silky_dogwood_berry.jpg
+image11: /images/southern_pokeweed_berry.jpg
+image12: /images_snowball_berry.jpg
 ---
 
 <h1>Mostly plants, books and birds...</h1>
@@ -18,9 +21,9 @@ image9: /images/turkeys_boston.jpg
 <p><em>Some plants with berries near me.</em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="{{ page.image9 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
-  <img src="{{ page.image8 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:30%; height:auto;">
-  <img src="{{ page.image7 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
+  <img src="{{ page.image10 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
+  <img src="{{ page.image11 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:30%; height:auto;">
+  <img src="{{ page.image12 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
 </div>
 
 *---*
