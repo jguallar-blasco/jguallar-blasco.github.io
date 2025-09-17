@@ -21,33 +21,34 @@ image16: /images/mushrooms/grave_with_puffball.jpg
 image17: /images/mushrooms/puffball_1.jpg
 image18: /images/mushrooms/puffball_2.jpg
 image19: /images/mushrooms/puffball_grave.jpg
+image20: /images/plants/chinese_chestnut_branch.jpg
+image21: /images/plants/chinese_chestnut_label.jpg
+image22: /iamges/plants/chinese_chestnut_non_viable_seeds.jpg
 ---
 
 <h1>Mostly plants, books and birds...</h1>
 
-<p><em>Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edile, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
+<p><em>September 18, 2025. Found a beautiful Chinese chestnut (Castanea mollissima) at Mt. Auburn Cemetery. Chinese chestnuts are super delicious and thus the squirells LOVE them. All I could find was these 5 non-viable nuts (non-viable meaning they are not able to germinate or sprout). You can tell if a chestnut nut is non-viable if it small, shrivelded, and has a soft exterior. Apparently squirrels can tell which nuts are viable, thus making it very hard to people like me to ever find a nice nut to plant. Nearby is an American Chestnut tree, but I was also not able to find any nuts... </em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="{{ page.image16 | relative_url }}" alt="TurkeysBoston" style="max-width:25%; height:auto;">
-  <img src="{{ page.image17 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:25%; height:auto;">
-  <img src="{{ page.image18 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
-  <img src="{{ page.image19 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
+  <img src="{{ page.image20 | relative_url }}" alt="TurkeysBoston" style="max-width:25%; height:auto;">
+  <img src="{{ page.image21 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:25%; height:auto;">
+  <img src="{{ page.image22 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
 </div>
 
 *---*
 
-<p><em>Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edile, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
+<p><em>September 17, 2025. Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edile, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
-  <img src="{{ page.image16 | relative_url }}" alt="TurkeysBoston" style="max-width:25%; height:auto;">
-  <img src="{{ page.image17 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:25%; height:auto;">
-  <img src="{{ page.image18 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
-  <img src="{{ page.image19 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
+  <img src="{{ page.image16 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
+  <img src="{{ page.image17 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:30%; height:auto;">
+  <img src="{{ page.image18 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
 </div>
 
 *---*
 
-<p><em>Some more plants and their berries near me in Cambridge MA. From left to right: Glossy Buckthorn (poisonous!), Gray Dogwood (not toxic but not edible) and Common Elderberry (berries edible after cooking, flowers can be eatern raw).</em></p>
+<p><em>September 5, 2025. Some more plants and their berries near me in Cambridge MA. From left to right: Glossy Buckthorn (poisonous!), Gray Dogwood (not toxic but not edible) and Common Elderberry (berries edible after cooking, flowers can be eatern raw).</em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="{{ page.image13 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
@@ -57,7 +58,7 @@ image19: /images/mushrooms/puffball_grave.jpg
 
 *---*
 
-<p><em>Went on a walk during my lunch break at work and saw tons of plants with berries. Are any of these berries edible? Here is an info dump from left to right: Silky Dogwood (berries are edible raw or cooked), Southern Pokeweed (berries are toxic!), and Snowball (edible when cooked). </em></p>
+<p><em>September 4, 2025. Went on a walk during my lunch break at work and saw tons of plants with berries. Are any of these berries edible? Here is an info dump from left to right: Silky Dogwood (berries are edible raw or cooked), Southern Pokeweed (berries are toxic!), and Snowball (edible when cooked). </em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="{{ page.image10 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
