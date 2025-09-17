@@ -23,7 +23,7 @@ image18: /images/mushrooms/puffball_2.jpg
 image19: /images/mushrooms/puffball_grave.jpg
 image20: /images/plants/chestnut/chinese_chestnut_branch.jpg
 image21: /images/plants/chestnut/chinese_chestnut_label.jpg
-image22: /iamges/plants/chestnut/chinese_chestnut_non_viable_seeds.jpg
+image22: /images/plants/chestnut/chinese_chestnut_non_viable_seeds.jpg
 ---
 
 <h1>Mostly plants, books and birds...</h1>
