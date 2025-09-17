@@ -2,24 +2,50 @@
 layout: content
 title: For-Fun
 logo: false
-image1: /images/monstera.jpeg
-image2: /images/desert_rose.jpg
-image3: /images/drago.jpg
-image4: /images/jackfruit_tree.jpg
-image5: /images/Poncirus_trifoliata_1_JdP.jpg
-image6: /images/poland_seagull.jpg
-image7: /images/poland_mandarin_duck.jpg
-image8: /images/old_lyme_fake_swans.jpg
-image9: /images/turkeys_boston.jpg
-image10: /images/silky_dogwood.jpg
-image11: /images/southern_pokeweed.jpg
-image12: /images/snowball.jpg
-image13: /images/glossy_buckthorn.jpg
-image14: /images/gray_dogwood.jpg
-image15: /images/common_elderberry.jpg
+image1: /images/plants/monstera.jpeg
+image2: /images/plants/desert_rose.jpg
+image3: /images/plants/drago.jpg
+image4: /images/plants/jackfruit_tree.jpg
+image5: /images/plants/Poncirus_trifoliata_1_JdP.jpg
+image6: /images/birds/poland_seagull.jpg
+image7: /images/birds/poland_mandarin_duck.jpg
+image8: /images/birds/old_lyme_fake_swans.jpg
+image9: /images/birds/turkeys_boston.jpg
+image10: /images/plants/silky_dogwood.jpg
+image11: /images/plantssouthern_pokeweed.jpg
+image12: /images/plants/snowball.jpg
+image13: /images/plants/glossy_buckthorn.jpg
+image14: /images/plants/gray_dogwood.jpg
+image15: /images/plants/common_elderberry.jpg
+image16: /images/mushrooms/grave_with_puffball.jpg
+image17: /images/mushrooms/puffball_1.jpg
+image18: /images/mushrooms/puffball_2.jpg
+image19: /images/mushrooms/puffball_grave.jpg
 ---
 
 <h1>Mostly plants, books and birds...</h1>
+
+<p><em>Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edile, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="{{ page.image16 | relative_url }}" alt="TurkeysBoston" style="max-width:25%; height:auto;">
+  <img src="{{ page.image17 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:25%; height:auto;">
+  <img src="{{ page.image18 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
+  <img src="{{ page.image19 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
+</div>
+
+*---*
+
+<p><em>Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edile, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
+
+<div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
+  <img src="{{ page.image16 | relative_url }}" alt="TurkeysBoston" style="max-width:25%; height:auto;">
+  <img src="{{ page.image17 | relative_url }}" alt="OldLymeFakeSwans" style="max-width:25%; height:auto;">
+  <img src="{{ page.image18 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
+  <img src="{{ page.image19 | relative_url }}" alt="MandarinDuck" style="max-width:25%; height:auto;">
+</div>
+
+*---*
 
 <p><em>Some more plants and their berries near me in Cambridge MA. From left to right: Glossy Buckthorn (poisonous!), Gray Dogwood (not toxic but not edible) and Common Elderberry (berries edible after cooking, flowers can be eatern raw).</em></p>
 
@@ -29,6 +55,7 @@ image15: /images/common_elderberry.jpg
   <img src="{{ page.image15 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
 </div>
 
+*---*
 
 <p><em>Went on a walk during my lunch break at work and saw tons of plants with berries. Are any of these berries edible? Here is an info dump from left to right: Silky Dogwood (berries are edible raw or cooked), Southern Pokeweed (berries are toxic!), and Snowball (edible when cooked). </em></p>
 
@@ -38,20 +65,14 @@ image15: /images/common_elderberry.jpg
   <img src="{{ page.image12 | relative_url }}" alt="MandarinDuck" style="max-width:30%; height:auto;">
 </div>
 
-*---*
-
 *Did you know a velociraptor is actually the size of a wild turkey...*
 
 ![TurkeysBoston]({{ page.image9 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
-
-*---*
 
 
 *Jumped out of the car in excitement when I saw these swans in a lake in Old Lyme CT only realize they were fake... not my most shining moment as a bird watcher.*
 
 ![OldLymeFakeSwans]({{ page.image8 | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
-
-*---*
 
 
 *Was very happy to spot this cozy looking Aix galericulata (mandarin duck) on a snowy day.*
