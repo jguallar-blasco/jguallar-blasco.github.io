@@ -21,9 +21,9 @@ image16: /images/mushrooms/grave_with_puffball.jpg
 image17: /images/mushrooms/puffball_1.jpg
 image18: /images/mushrooms/puffball_2.jpg
 image19: /images/mushrooms/puffball_grave.jpg
-image20: /images/plants/chinese_chestnut_branch.jpg
-image21: /images/plants/chinese_chestnut_label.jpg
-image22: /iamges/plants/chinese_chestnut_non_viable_seeds.jpg
+image20: /images/plants/chestnut/chinese_chestnut_branch.jpg
+image21: /images/plants/chestnut/chinese_chestnut_label.jpg
+image22: /iamges/plants/chestnut/chinese_chestnut_non_viable_seeds.jpg
 ---
 
 <h1>Mostly plants, books and birds...</h1>
@@ -38,7 +38,7 @@ image22: /iamges/plants/chinese_chestnut_non_viable_seeds.jpg
 
 *---*
 
-<p><em>September 17, 2025. Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edile, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
+<p><em>September 17, 2025. Went on a walk after work and found a Puffball mushroom (belonging to the Basidiomycota division). I am only posting the biggest one, but there was a whole herd of them in the bushes just out of view. Puffball mushrooms are famous for being edible, but I personally do not take any chances with mushrooms. Next to the mushroom was the grave of the archaelogist Thomas Whittemore, the founder of the Byzantine Institue of America. </em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="{{ page.image16 | relative_url }}" alt="TurkeysBoston" style="max-width:30%; height:auto;">
