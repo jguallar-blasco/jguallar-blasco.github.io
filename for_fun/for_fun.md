@@ -12,7 +12,7 @@ image7: /images/birds/poland_mandarin_duck.jpg
 image8: /images/birds/old_lyme_fake_swans.jpg
 image9: /images/birds/turkeys_boston.jpg
 image10: /images/plants/silky_dogwood.jpg
-image11: /images/plantssouthern_pokeweed.jpg
+image11: /images/plants/southern_pokeweed.jpg
 image12: /images/plants/snowball.jpg
 image13: /images/plants/glossy_buckthorn.jpg
 image14: /images/plants/gray_dogwood.jpg
