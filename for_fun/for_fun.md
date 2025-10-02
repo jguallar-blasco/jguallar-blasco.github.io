@@ -29,7 +29,7 @@ image24: /images/plants/persimmon/common_persimmon.jpg
 image25: /images/plants/persimmon/common_persimmon_label.jpg
 ---
 
-<h1>Mostly plants, books and birds...</h1>
+<h1>Mostly plants, urban foraging, books and birds...</h1>
 
 <p><em>September 20, 2025. Cambridge, MA. American persimmon, common persimmon, eastern persimmon, possume apples... there are many names for the Diospyros virginiana. This tree ranges from Florida to New England and has apparently been cultivated for its fruin since prehistoric times by Native Americans. This is a dioecious tree meaning there needs to be a female and male tree for fruit to be produced. Persimmons are super yummy, but be careful not too pick them if they are not fully ripe as they are very very very astringent when unripe. A fun fact about the common persimmon: the scientific name, Diospyrus, means "fruit of the gods" or "divine fruit", directly translating to "Zeus's wheat". </em></p>
 
@@ -41,7 +41,7 @@ image25: /images/plants/persimmon/common_persimmon_label.jpg
 
 *---*
 
-<p><em>September 18, 2025. Found a beautiful Chinese chestnut (Castanea mollissima) at Mt. Auburn Cemetery. Chinese chestnuts are super delicious and thus the squirells LOVE them. All I could find was these 5 non-viable nuts (non-viable meaning they are not able to germinate or sprout). You can tell if a chestnut nut is non-viable if it small, shrivelded, and has a soft exterior. Apparently squirrels can tell which nuts are viable, thus making it very hard to people like me to ever find a nice nut to plant. Nearby is an American Chestnut tree, but I was also not able to find any nuts... damn squirrels </em></p>
+<p><em>September 18, 2025. Found a beautiful Chinese chestnut (Castanea mollissima) at Mt. Auburn Cemetery. Chinese chestnuts are super delicious and thus the squirells LOVE them. All I could find was these 5 non-viable nuts (non-viable meaning they are not able to germinate or sprout). You can tell a chestnut nut is non-viable if it small, shrivelded, and has a soft exterior. Apparently squirrels can tell which nuts are viable, thus making it very hard for people like me to ever find a nice nut to plant. Nearby is an American Chestnut tree, but I was also not able to find any nuts... damn squirrels </em></p>
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: center;">
   <img src="{{ page.image20 | relative_url }}" alt="TurkeysBoston" style="max-width:25%; height:auto;">
