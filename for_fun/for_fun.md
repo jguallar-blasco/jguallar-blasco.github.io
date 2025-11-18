@@ -66,7 +66,7 @@ images:
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
 
-<p><em>As any one who knows me well could tell I absolutely adore pigeons. I don't understand why everyone is so against pigeons. The rock pigeon was one of the first birds domesticated and was used to carry messages (up to 1,000 miles) for thousands of years, and even during the two World Wars (see this link on Pigeon Post: https://en.wikipedia.org/wiki/Pigeon_post). As a frequent traveler between Boston and NYC, I see many pigeons. And it is in my professional opinion that the most beautiful pigeons can be found in Washington Square Park, and the not-most-beautiful are in Boston's Backbay station.
+<p><em>As any one who knows me well could tell you, I absolutely adore pigeons. I don't understand why everyone is so against pigeons. The rock pigeon was one of the first birds domesticated and was used to carry messages (up to 1,000 miles) for thousands of years, and even during the two World Wars (see this link on Pigeon Post: https://en.wikipedia.org/wiki/Pigeon_post). As a frequent traveler between Boston and NYC, I see many pigeons. And it is in my professional opinion that the most beautiful pigeons can be found in Washington Square Park, and the not-most-beautiful are in Boston's Backbay station.
 
 As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wikipedia.org/wiki/IP_over_Avian_Carriers). </em></p>
 
@@ -138,44 +138,80 @@ As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wik
 
 *---*
 
-*Did you know a velociraptor is actually the size of a wild turkey...*
+<p><em>Did you know a velociraptor is actually the size of a wild turkey... </em></p>
 
-![TurkeysBoston]({{ page.images.birds[3] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
-
-*Jumped out of the car in excitement when I saw these swans in a lake in Old Lyme CT only realize they were fake... not my most shining moment as a bird watcher.*
-
-![OldLymeFakeSwans]({{ page.images.birds[2] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
-
-*Was very happy to spot this cozy looking Aix galericulata (mandarin duck) on a snowy day.*
-
-![MandarinDuck]({{ page.images.birds[1] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+<div class="photo-row">
+  {% for img in page.images.birds offset:3 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
 
 *---*
 
-*Often planted as decoration and security due to its pretty white flowers but sharp thorns, the Asian trifoliate orange (Citrus trifoliata) is bush invasie to the East Coast. Please avoid planting, remove when possible, and attempt to discard any fallen orange from this tree to avoid further propagation.*
+<p><em>Jumped out of the car in excitement when I saw these swans in a lake in Old Lyme CT only realize they were fake... not my most shining moment as a bird watcher.</em></p>
 
-![TrifoliateOrange]({{ page.images.plants[4] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
-
-*---*
-
-*Found this cute black headed gull seated atop a statue called Wisła, constructed as the personification of the Vistula River.*
-
-![PolandSeagull]({{ page.images.birds[0] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+<div class="photo-row">
+  {% for img in page.images.birds offset:2 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
 
 *---*
 
-*My most recent trip home to Spain I had to opportunity to visit Barcelona. While there I stumbled upon a seed stand in Las Ramblas where I found the seeds for the Dracaena draco. This is an evergreen subtropical tree native to the Canary Islands, Cape Verde and Morroco. This picture shows about 4 months of growth.*
+<p><em>Was very happy to spot this cozy looking Aix galericulata (mandarin duck) on a snowy day.</em></p>
 
-![Dracoplant]({{ page.images.plants[2] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
-
-*---*
-
-*This is my my Adenium obesum, also known as the desert rose. Until recently, this plant had been on my plants-to-get list for over 3 years. Native to the Shel region of the Sahara and the Arabian Peninsula, this an a flowering evergreen requiring very little water. Although this plant is extremely slow growing, it can reach 10 feet in height when fully mature.*
-
-![Desertrose]({{ page.images.plants[1] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+<div class="photo-row">
+  {% for img in page.images.birds offset:1 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
 
 *---*
 
-*I acquired this Monstera delciosa, commonly known as the Swiss Cheese plant, 4 years ago when it was about 10 inches tall. This plant is native to Mexico and Panama and produces a delicious edible fruit (hence the name "deliciosa"). I have changed this plant's pot 4 times and it is now in a 12 gallon pot. Can you see the bird in the picture?*
+<p><em>Often planted as decoration and security due to its pretty white flowers but sharp thorns, the Asian trifoliate orange (Citrus trifoliata) is bush invasie to the East Coast. Please avoid planting, remove when possible, and attempt to discard any fallen orange from this tree to avoid further propagation.</em></p>
 
-![Monstera]({{ page.images.plants[0] | relative_url }}){: style="max-width:30%; display: block; margin: auto"}
+<div class="photo-row">
+  {% for img in page.images.plants offset:4 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
+
+*---*
+
+<p><em>Found this cute black headed gull seated atop a statue called Wisła, constructed as the personification of the Vistula River.</em></p>
+
+<div class="photo-row">
+  {% for img in page.images.birds offset:0 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
+
+*---*
+
+<p><em>My most recent trip home to Spain I had to opportunity to visit Barcelona. While there I stumbled upon a seed stand in Las Ramblas where I found the seeds for the Dracaena draco. This is an evergreen subtropical tree native to the Canary Islands, Cape Verde and Morroco. This picture shows about 4 months of growth.</em></p>
+
+<div class="photo-row">
+  {% for img in page.images.plants offset:2 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
+
+*---*
+
+<p><em>This is my my Adenium obesum, also known as the desert rose. Until recently, this plant had been on my plants-to-get list for over 3 years. Native to the Shel region of the Sahara and the Arabian Peninsula, this an a flowering evergreen requiring very little water. Although this plant is extremely slow growing, it can reach 10 feet in height when fully mature.</em></p>
+
+<div class="photo-row">
+  {% for img in page.images.plants offset:1 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
+
+*---*
+
+<p><em>I acquired this Monstera delciosa, commonly known as the Swiss Cheese plant, 4 years ago when it was about 10 inches tall. This plant is native to Mexico and Panama and produces a delicious edible fruit (hence the name "deliciosa"). I have changed this plant's pot 4 times and it is now in a 12 gallon pot. Can you see the bird in the picture?</em></p>
+
+<div class="photo-row">
+  {% for img in page.images.plants offset:0 limit:1 %}
+    <img src="{{ img | relative_url }}" class="gallery-img">
+  {% endfor %}
+</div>
