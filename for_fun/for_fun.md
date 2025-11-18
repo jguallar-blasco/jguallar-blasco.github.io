@@ -66,7 +66,7 @@ images:
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
 
-<p><em>As any one who knows me well could tell you, I absolutely adore pigeons. I don't understand why everyone is so against pigeons. The rock pigeon was one of the first birds domesticated and was used to carry messages (up to 1,000 miles) for thousands of years, and even during the two World Wars (see this link on Pigeon Post: https://en.wikipedia.org/wiki/Pigeon_post). As a frequent traveler between Boston and NYC, I see many pigeons. And it is in my professional opinion that the most beautiful pigeons can be found in Washington Square Park, and the not-most-beautiful are in Boston's Backbay station.
+<p><em>November 11, 2025. As any one who knows me well could tell you, I absolutely adore pigeons. I don't understand why everyone is so against pigeons. The rock pigeon was one of the first birds domesticated and was used to carry messages (up to 1,000 miles) for thousands of years, and even during the two World Wars (see this link on Pigeon Post: https://en.wikipedia.org/wiki/Pigeon_post). As a frequent traveler between Boston and NYC, I see many pigeons. And it is in my professional opinion that the most beautiful pigeons can be found in Washington Square Park, and the not-most-beautiful are in Boston's Backbay station.
 
 As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wikipedia.org/wiki/IP_over_Avian_Carriers). </em></p>
 
@@ -78,7 +78,7 @@ As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wik
 
 *---*
 
-<p><em>As a JHU alumna I will forever and always be a bluejay at heart. However, I don't know if you have every met a bluejay, but they are the meanest birds known to man. They will atack any bird that breathes around them.... Anyways, here are some fun facts about bluejays: blue jays aren't actually blue (who woulda thunk it), they belond to the Corvidae family of birds (same family as Ravens and Crows), and they love acorns!</em></p>
+<p><em>November 10, 2025. As a JHU alumna I will forever and always be a bluejay at heart. However, I don't know if you have every met a bluejay, but they are the meanest birds known to man. They will atack any bird that breathes around them.... Anyways, here are some fun facts about bluejays: blue jays aren't actually blue (who woulda thunk it), they belong to the Corvidae family of birds (same family as Ravens and Crows), and they love acorns! Here is a bluejay looking very regal on a electrical wire.</em></p>
 
 <div class="photo-row">
   {% for img in page.images.birds limit:1 offset:4 %}
