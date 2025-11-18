@@ -48,7 +48,7 @@ images:
   justify-content: center;
 }
 .gallery-img {
-  width: 100%;
+  width: 30%;
   height: auto;
   border-radius: 10px;
 }
@@ -57,7 +57,7 @@ images:
   column-gap: 10px;
 }
 .auto-img {
-  width: 30%;
+  width: 100%;
   margin-bottom: 20px;
   break-inside: avoid-column;  /* Prevent weird breaks */
   border-radius: 10px;
