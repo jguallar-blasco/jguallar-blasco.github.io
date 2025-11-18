@@ -57,7 +57,7 @@ images:
   column-gap: 10px;
 }
 .auto-img {
-  width: 33%;
+  width: 100%;
   margin-bottom: 20px;
   break-inside: avoid-column;  /* Prevent weird breaks */
   border-radius: 10px;
