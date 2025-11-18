@@ -60,7 +60,7 @@ images:
 As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wikipedia.org/wiki/IP_over_Avian_Carriers). </em></p>
 
 <div class="photo-row">
-  {% for img in page.images.birds limit:3 offset:6 %}
+  {% for img in page.images.birds limit:3 offset:5 %}
     <img src="{{ img | relative_url }}" class="gallery-img">
   {% endfor %}
 </div>
@@ -70,7 +70,7 @@ As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wik
 <p><em>As a JHU alumna I will forever and always be a bluejay at heart. However, I don't know if you have every met a bluejay, but they are the meanest birds known to man. They will atack any bird that breathes around them.... Anyways, here are some fun facts about bluejays: blue jays aren't actually blue (who woulda thunk it), they belond to the Corvidae family of birds (same family as Ravens and Crows), and they love acorns!</em></p>
 
 <div class="photo-row">
-  {% for img in page.images.birds limit:1 offset:5 %}
+  {% for img in page.images.birds limit:1 offset:4 %}
     <img src="{{ img | relative_url }}" class="gallery-img">
   {% endfor %}
 </div>
@@ -80,7 +80,7 @@ As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wik
 <p><em>September 20, 2025. Cambridge, MA. American persimmon, common persimmon, eastern persimmon, possume apples... there are many names for the Diospyros virginiana. This tree ranges from Florida to New England and has apparently been cultivated for its fruin since prehistoric times by Native Americans. This is a dioecious tree meaning there needs to be a female and male tree for fruit to be produced. Persimmons are super yummy, but be careful not too pick them if they are not fully ripe as they are very very very astringent when unripe. A fun fact about the common persimmon: the scientific name, Diospyrus, means "fruit of the gods" or "divine fruit", directly translating to "Zeus's wheat". </em></p>
 
 <div class="photo-row">
-  {% for img in page.images.plants limit:3 offset:14 %}
+  {% for img in page.images.plants limit:3 offset:11 %}
     <img src="{{ img | relative_url }}" class="gallery-img">
   {% endfor %}
 </div>
