@@ -51,6 +51,17 @@ images:
   max-width: 25%;
   height: auto;
 }
+.mixed-photo-grid {
+  column-count: 2;          /* Creates a natural waterfall layout */
+  column-gap: 20px;
+}
+.auto-img {
+  width: 100%;
+  margin-bottom: 20px;
+  break-inside: avoid-column;  /* Prevent weird breaks */
+  border-radius: 10px;
+}
+
 </style>
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
@@ -59,9 +70,9 @@ images:
 
 As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wikipedia.org/wiki/IP_over_Avian_Carriers). </em></p>
 
-<div class="photo-row">
+<div class="mixed-photo-grid">
   {% for img in page.images.birds limit:3 offset:5 %}
-    <img src="{{ img | relative_url }}" class="gallery-img">
+    <img src="{{ img | relative_url }}" class="auto-img">
   {% endfor %}
 </div>
 
@@ -90,7 +101,7 @@ As aside, here is the wikipedia entry for IP over Avian Carriers (https://en.wik
 <p><em>September 18, 2025. Found a beautiful Chinese chestnut (Castanea mollissima) at Mt. Auburn Cemetery. Chinese chestnuts are super delicious and thus the squirells LOVE them. All I could find was these 5 non-viable nuts (non-viable meaning they are not able to germinate or sprout). You can tell a chestnut nut is non-viable if it small, shrivelded, and has a soft exterior. Apparently squirrels can tell which nuts are viable, thus making it very hard for people like me to ever find a nice nut to plant. Nearby is an American Chestnut tree, but I was also not able to find any nuts... damn squirrels </em></p>
 
 <div class="photo-row">
-  {% for img in page.images.birds offset:12 limit:3 %}
+  {% for img in page.images.plants offset:12 limit:3 %}
     <img src="{{ img | relative_url }}" class="gallery-img">
   {% endfor %}
 </div>
