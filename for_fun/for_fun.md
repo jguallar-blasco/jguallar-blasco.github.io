@@ -27,6 +27,7 @@ image22: /images/plants/chestnut/chinese_chestnut_non_viable_seeds.jpg
 image23: /images/plants/persimmon/common_persimmon_2.jpg
 image24: /images/plants/persimmon/common_persimmon.jpg
 image25: /images/plants/persimmon/common_persimmon_label.jpg
+image
 ---
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
