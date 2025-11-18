@@ -48,12 +48,13 @@ images:
   justify-content: center;
 }
 .gallery-img {
-  max-width: 25%;
+  width: 100%;
   height: auto;
+  border-radius: 10px;
 }
 .mixed-photo-grid {
   column-count: 2;          /* Creates a natural waterfall layout */
-  column-gap: 20px;
+  column-gap: 10px;
 }
 .auto-img {
   width: 100%;
@@ -61,7 +62,6 @@ images:
   break-inside: avoid-column;  /* Prevent weird breaks */
   border-radius: 10px;
 }
-
 </style>
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
