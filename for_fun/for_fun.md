@@ -22,6 +22,12 @@ images:
     - /images/plants/persimmon/common_persimmon_2.jpg
     - /images/plants/persimmon/common_persimmon.jpg
     - /images/plants/persimmon/common_persimmon_label.jpg
+    - /images/plants/orlando/hong_kong_orchid_tree.jpg
+    - /images/plants/orlando/bottle_palm_tree.jpg
+    - /images/plants/orlando/croton_plan.jpg
+    - /images/plants/orlando/lily_of_the_nile.jpg
+    - /images/plants/orlando/philodendron_xandu.jpg
+    - /images/plants/orlando/ti_plant.jpg
 
   mushrooms:
     - /images/mushrooms/grave_with_puffball.jpg
@@ -65,6 +71,26 @@ images:
 </style>
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
+
+<p><em>December 2, 2025. Pretty sure this bird was igivng me the hairy eyeball... </em></p>
+
+<div class="mixed-photo-grid">
+  {% for img in page.images.birds limit:3 offset:5 %}
+    <img src="{{ img | relative_url }}" class="auto-img">
+  {% endfor %}
+</div>
+
+*---*
+
+<p><em>December 1, 2025. Was in Orlando and spotted some fun subtropical plants. From left to right:  </em></p>
+
+<div class="mixed-photo-grid">
+  {% for img in page.images.birds limit:3 offset:5 %}
+    <img src="{{ img | relative_url }}" class="auto-img">
+  {% endfor %}
+</div>
+
+*---*
 
 <p><em>November 11, 2025. As any one who knows me well could tell you, I absolutely adore pigeons. I don't understand why everyone is so against pigeons. The rock pigeon was one of the first birds domesticated and was used to carry messages (up to 1,000 miles) for thousands of years, and even during the two World Wars (see this link on Pigeon Post: https://en.wikipedia.org/wiki/Pigeon_post). As a frequent traveler between Boston and NYC, I see many pigeons. And it is in my professional opinion that the most beautiful pigeons can be found in Washington Square Park, and the not-most-beautiful are in Boston's Backbay station.
 
