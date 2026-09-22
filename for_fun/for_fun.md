@@ -4,13 +4,6 @@ title: For-Fun
 logo: false
 
 posts:
-  - date: "December 2, 2025"
-    text: >-
-      Pretty sure this bird was igivng me the hairy eyeball...
-    images:
-      - /images/birds/pigeon_comic.jpg
-      - /images/birds/pigeon_1.jpg
-      - /images/birds/ugly_pigeon.jpg
 
   - date: "December 1, 2025"
     text: >-
@@ -18,7 +11,6 @@ posts:
     images:
       - /images/plants/orlando/hong_kong_orchid_tree.jpg
       - /images/plants/orlando/bottle_palm_tree.jpg
-      - /images/plants/orlando/croton_plan.jpg
       - /images/plants/orlando/lily_of_the_nile.jpg
       - /images/plants/orlando/philodendron_xandu.jpg
       - /images/plants/orlando/ti_plant.jpg
@@ -173,6 +165,12 @@ posts:
   gap: 10px;
   margin-bottom: 1.5em;
 }
+.photo-grid--single {
+  grid-template-columns: 1fr;
+  max-width: 33%;
+  margin-left: auto;
+  margin-right: auto;
+}
 .grid-img {
   width: 100%;
   height: auto;
@@ -186,7 +184,7 @@ posts:
 {% for post in page.posts %}
 <p><em>{% if post.date %}{{ post.date }}. {% endif %}{{ post.text }}</em></p>
 
-<div class="photo-grid">
+<div class="photo-grid{% if post.images.size == 1 %} photo-grid--single{% endif %}">
   {% for img in post.images %}
     <img src="{{ img | relative_url }}" class="grid-img" loading="lazy">
   {% endfor %}
