@@ -175,8 +175,8 @@ posts:
 }
 .grid-img {
   width: 100%;
-  height: 260px;
-  object-fit: cover;
+  height: auto;
+  display: block;
   border-radius: 10px;
 }
 </style>
