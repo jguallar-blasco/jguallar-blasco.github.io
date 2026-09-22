@@ -4,10 +4,53 @@ title: For-Fun
 logo: false
 
 posts:
+  - date: "August, 2026"
+    text: >-
+      Spent a considerable amount of time in NYC this summer, enough that I started noticing a specific pigeon couple that lives in a particular tree in Washington Square Park. I wonder what the rent on their branch is like? 
+    images:
+     - /images/birds/pigeon_couple/20260826_181559(0).jpg
+     - /images/birds/pigeon_couple/20260826_181603(0).jpg
+     - /images/birds/pigeon_couple/20260830_122557(0).jpg
+     - /images/birds/pigeon_couple/20260830_122559(0).jpg
+     - /images/birds/pigeon_couple/20260830_122603.jpg
+     - /images/birds/pigeon_couple/20260903_121105.jpg
+     - /images/birds/pigeon_couple/20260903_121114.jpg
+
+  - date: "June 13, 2026"
+    text: >- 
+      Had to opportunity to visit the NY botanical gardens over the summer. Here is a selection of some of my favorite sighting from iunside the Enid A. Haupt Conservatory (from left to right): 
+    images: 
+      - /images/plants/nybg_6_13/20260613_140113(0).jpg
+      - /images/plants/nybg_6_13/20260613_140241.jpg
+      - /images/plants/nybg_6_13/20260613_140300.jpg
+      - /images/plants/nybg_6_13/20260613_140717.jpg
+      - /images/plants/nybg_6_13/20260613_141358.jpg
+      - /images/plants/nybg_6_13/20260613_141655.jpg
+      - /images/plants/nybg_6_13/20260613_141838.jpg
+
+  - date: "August 9, 2026"
+    text: >-
+      After dropping all its leaves in response to the stressful move to Boston, my desert rose is back and stronger then ever. She even gave me a flower!
+    images: 
+      -  images\plants\flowering_desrt_rose_8_8.jpg
+
+  - date: "August 8, 2026"
+    text: >-
+      Random flower that I thought was pretty. Found it on one of my daily walks. 
+    images: 
+      - images/plants/cambridge_random_flower_8_9.jpg
+
+  - date: "May 5, 2026"
+    text: >-
+      Just some plastic flamingos that caught my eye... the plastic flamingo remains the best kind of garden decor.
+    images: 
+      - /images/birds/plastic_flamingo_1_5_26.jpg
+      - /images/birds/plastic_flamingo_2_5_26.jpg
+      - /images/birds/plastic_flamingo_3_5_26.jpg
 
   - date: "December 1, 2025"
     text: >-
-      Was in Orlando and spotted some fun subtropical plants. From left to right:
+      I was in Orlando for a conference and spotted some fun subtropical plants. From left to right: Hong King Orchid Tree (can be seen on the Hong Kong coat of arms), Bottle Palm (native to the Mascarene Islands), Lily of the Nile or African Lily (native to South Africa), Tree Philodendron (although it is actually not a Philodendron) and Hawaiian Ti Plant (native to Southeast Asia). Enjoy!
     images:
       - /images/plants/orlando/hong_kong_orchid_tree.jpg
       - /images/plants/orlando/bottle_palm_tree.jpg
@@ -180,7 +223,7 @@ posts:
 </style>
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
-<h2>If you are especially into birds, check-out the bird photography instagram page I run with my husband!  </h2>
+<h2>If you are especially into birds, check-out the bird photography instagram page I run with my husband! @stefanie.and.jimmy </h2>
 
 {% for post in page.posts %}
 <p><em>{% if post.date %}{{ post.date }}. {% endif %}{{ post.text }}</em></p>
