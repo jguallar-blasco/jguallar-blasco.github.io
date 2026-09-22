@@ -180,6 +180,7 @@ posts:
 </style>
 
 <h1>Mostly plants, urban foraging, books and birds...</h1>
+<h2>If you are especially into birds, check-out the bird photography instagram page I run with my husband!  </h2>
 
 {% for post in page.posts %}
 <p><em>{% if post.date %}{{ post.date }}. {% endif %}{{ post.text }}</em></p>
