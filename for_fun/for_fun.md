@@ -66,7 +66,7 @@ posts:
       the two World Wars (see this link on Pigeon Post: https://en.wikipedia.org/wiki/Pigeon_post).
       As a frequent traveler between Boston and NYC, I see many pigeons. And it is in my professional
       opinion that the most beautiful pigeons can be found in Washington Square Park, and the
-      not-most-beautiful are in Boston's Backbay station. As aside, here is the wikipedia entry
+      not-most-beautiful are in Boston's Backbay station. As an aside, here is the wikipedia entry
       for IP over Avian Carriers (https://en.wikipedia.org/wiki/IP_over_Avian_Carriers).
     images:
       - /images/birds/pigeon_comic.jpg
@@ -222,8 +222,8 @@ posts:
 }
 </style>
 
-<h1>Mostly plants, urban foraging, books and birds...</h1>
-<h2>If you are especially into birds, check-out the bird photography instagram page I run with my husband! @stefanie.and.jimmy </h2>
+<h2>Mostly plants, urban foraging, books and birds...</h2>
+<h1>If you are especially into birds, check-out the bird photography instagram page I run with my husband! @stefanie.and.jimmy </h1>
 
 {% for post in page.posts %}
 <p><em>{% if post.date %}{{ post.date }}. {% endif %}{{ post.text }}</em></p>
