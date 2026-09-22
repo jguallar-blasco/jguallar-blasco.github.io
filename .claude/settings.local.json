@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(Get-ChildItem \"c:\\\\Users\\\\jguallarblasco\\\\Projects\\\\jguallar-blasco.github.io\\\\assets\\\\\" | Where-Object {$_.Extension -eq \".pdf\"})"
+    ]
+  }
+}
